@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="promotion.xsl"?>
+<promotion>
+    <titre>3ème Année IDSD : Informatique décisionnelle (ID)</titre>
+    <etudiants>
+        <etudiant>
+            <nom>Ahmed Lajmi</nom>
+            <moyenne>15.65</moyenne>
+            <photo>../images/etudiants/promotion3/ID/et1.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/ID/etudiant1.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Rania Ben Said</nom>
+            <moyenne>12.23</moyenne>
+            <photo>../images/etudiants/promotion3/ID/et2.png</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/ID/etudiant2.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Karim Ben Ammar</nom>
+            <moyenne>10.86</moyenne>
+            <photo>../images/etudiants/promotion3/ID/et3.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/ID/etudiant3.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Leila Mansouri</nom>
+            <moyenne>14.81</moyenne>
+            <photo>../images/etudiants/promotion3/ID/et4.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/ID/etudiant4.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Yassine Haddad</nom>
+            <moyenne>15.09</moyenne>
+            <photo>../images/etudiants/promotion3/ID/et5.png</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/ID/etudiant5.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Nour Amri</nom>
+            <moyenne>15.20</moyenne>
+            <photo>../images/etudiants/promotion3/ID/et6.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/ID/etudiant6.xml</lien>
+        </etudiant>
+    </etudiants>
+    <retour>http://localhost:8000/promotion/promotion3.html</retour>
+</promotion>

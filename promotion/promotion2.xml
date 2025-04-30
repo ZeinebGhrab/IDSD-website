@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="promotion.xsl"?>
+<promotion>
+    <titre>2ème Année IDSD</titre>
+    <etudiants>
+        <etudiant>
+            <nom>Mohamed Ali</nom>
+            <moyenne>17.13</moyenne>
+            <photo>../images/etudiants/promotion2/et1.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion2/etudiant1.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Leila Ben Ali</nom>
+            <moyenne>13.90</moyenne>
+            <photo>../images/etudiants/promotion2/et2.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion2/etudiant2.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Yasmin Al-Jabari</nom>
+            <moyenne>11.00</moyenne>
+            <photo>../images/etudiants/promotion2/et3.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion2/etudiant3.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Noura Salah</nom>
+            <moyenne>12.52</moyenne>
+            <photo>../images/etudiants/promotion2/et4.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion2/etudiant4.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Ahmed Rami</nom>
+            <moyenne>15.15</moyenne>
+            <photo>../images/etudiants/promotion2/et5.png</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion2/etudiant5.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Mouna Karoui</nom>
+            <moyenne>17.13</moyenne>
+            <photo>../images/etudiants/promotion2/et6.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion2/etudiant6.xml</lien>
+        </etudiant>
+    </etudiants>
+    <retour>../index.html</retour>
+</promotion>

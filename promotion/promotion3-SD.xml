@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="promotion.xsl"?>
+<promotion>
+    <titre>3ème Année IDSD : Science de Données (SD)</titre>
+    <etudiants>
+        <etudiant>
+            <nom>Ahmed Khemiri</nom>
+            <moyenne>15.41</moyenne>
+            <photo>../images/etudiants/promotion3/SD/et1.png</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/SD/etudiant1.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Rami Ben Said</nom>
+            <moyenne>13.02</moyenne>
+            <photo>../images/etudiants/promotion3/SD/et2.png</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/SD/etudiant2.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Karima Ben Ammar</nom>
+            <moyenne>15.49</moyenne>
+            <photo>../images/etudiants/promotion3/SD/et3.png</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/SD/etudiant3.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Mohamed Ali</nom>
+            <moyenne>14.13</moyenne>
+            <photo>../images/etudiants/promotion3/SD/et4.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/SD/etudiant4.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Ismail Ben Said</nom>
+            <moyenne>13.91</moyenne>
+            <photo>../images/etudiants/promotion3/SD/et5.png</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/SD/etudiant5.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Yassine Mansouri</nom>
+            <moyenne>15.79</moyenne>
+            <photo>../images/etudiants/promotion3/SD/et6.png</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion3/SD/etudiant6.xml</lien>
+        </etudiant>
+    </etudiants>
+    <retour>http://localhost:8000/promotion/promotion3.html</retour>
+</promotion>

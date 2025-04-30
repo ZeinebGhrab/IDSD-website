@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../etudiant.xsl"?>
+<etudiant>
+    <metadata>
+        <titre>Fiche Étudiant - Mohamed Ali</titre>
+    </metadata>
+
+    <profil>
+        <photo>../../../images/etudiants/promotion2/et1.jpg</photo>
+        <nom>Mohamed Ali</nom>
+        <promotion>2éme Année IDSD</promotion>
+        <moyenne>17.13</moyenne>
+        <date-naissance>12/03/2002</date-naissance>
+        <email>mohamed.ali@enetcom.u-sfax.tn</email>
+        <telephone>+216 71 234 567</telephone>
+        <adresse>Avenue Mohammed V, Tunis, Tunisie</adresse>
+    </profil>
+
+    <notes>
+        <matiere>
+            <nom>Mathématiques Fondamentales III</nom>
+            <note>16.00</note>
+            <coefficient>5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Aide à la décision I</nom>
+            <note>14.50</note>
+            <coefficient>4.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Informatique Fondamentale III</nom>
+            <note>11.00</note>
+            <coefficient>8.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Informatique Appliquée III</nom>
+            <note>8.00</note>
+            <coefficient>7</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Sciences humaines III</nom>
+            <note>10.00</note>
+            <coefficient>4.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Stage</nom>
+            <note>16.00</note>
+            <coefficient>0.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Aide à la décision II et Gestion financière</nom>
+            <note>13.00</note>
+            <coefficient>7.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Programmation et IoT</nom>
+            <note>12.50</note>
+            <coefficient>3</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Données massives</nom>
+            <note>11.00</note>
+            <coefficient>5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Cloud et Programmation avancée</nom>
+            <note>14.00</note>
+            <coefficient>7</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Sciences humaines IV</nom>
+            <note>15.00</note>
+            <coefficient>5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Visite et PFA</nom>
+            <note>18.00</note>
+            <coefficient>2.5</coefficient>
+        </matiere>
+    </notes>
+
+    <navigation>
+        <lien-retour>http://localhost:8000/promotion/promotion2.xml</lien-retour>
+    </navigation>
+</etudiant>

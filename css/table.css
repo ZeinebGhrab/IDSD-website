@@ -1,0 +1,56 @@
+/* Style des tableaux appliquées pour tous les pages de site web qui contient des tableaux */
+table {
+    width: 100%;
+    border-collapse: collapse; /*fusionne les bordures des cellules et ne les rend qu'une seule bordure.*/
+    margin: 20px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+table thead tr {
+    background-color: #3498db;
+    color: #ffffff;
+    text-align: left;
+}
+
+table th, table td {
+    padding: 12px 15px; /*spacement de 12px en haut et en bas (vertical) et de 15px à gauche et à droite (horizontal)*/
+}
+
+table tbody tr {
+    border-bottom: 1px solid #dddddd;  /* Ajoute une bordure bas autour des cellules */
+}
+
+/* Lignes paires - gris clair */
+table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+/* Lignes impaires - blanc */
+table tbody tr:nth-of-type(odd) {
+    background-color: #ffffff;
+}
+
+table tbody tr:last-of-type {
+    border-bottom: 2px solid #939ca1;
+}
+
+table tbody tr:hover {
+    background-color: #e1f0fa;
+}
+
+/* Lien de retour */
+.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.back-link:hover {
+    background: #66b3e7;
+}

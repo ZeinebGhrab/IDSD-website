@@ -1,0 +1,63 @@
+/* Styles pour le conteneur des informations de l'etudiant */
+.student-container {
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px; 
+    margin: 30px 0;
+}
+
+/* Styles pour le conteneur de notes de l'étudiant */
+.grades-table {
+    max-height: 600px;
+    overflow-y: auto; /*ascenseur vertical dans un tableau*/
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+/* Styles pour la photo de profil de l'étudiant */
+.student-photo {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #3498db;
+    margin-bottom: 20px;
+}
+
+/* Styles pour le conteneur des informations d'etudiant : nom, promotion, moyenne, date naissance, email, telephone, adresse */
+.student-details {
+    max-height: 600px;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+/* Styles pour le titre h2 des informations d'etudiant : nom*/
+.student-details h2 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* Styles pour le conteneur de details des informations d'etudiant : promotion, moyenne, date naissance, email, telephone, adresse */
+.detail-item {
+    margin-bottom: 15px;
+}
+
+/* Styles pour les titre de details des informations d'etudiant : promotion, moyenne, date naissance, email, telephone, adresse */
+.detail-label {
+    font-weight: bold;
+    color: #3498db;
+    display: inline-block;  /* Affichage en ligne avec bloc */
+    width: 150px;
+}
+
+@media (max-width: 768px) {
+    .student-container {
+        grid-template-columns: 1fr;
+    }
+}

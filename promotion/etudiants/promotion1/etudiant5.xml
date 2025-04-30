@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../etudiant.xsl"?>
+<etudiant>
+    <metadata>
+        <titre>Fiche Étudiant - Sara Omari</titre>
+    </metadata>
+
+    <profil>
+        <photo>../../../images/etudiants/promotion1/et5.jpg</photo>
+        <nom>Sara Omari</nom>
+        <promotion>1ère Année IDSD</promotion>
+        <moyenne>10.58</moyenne>
+        <date-naissance>12/03/2002</date-naissance>
+        <email>sara.omari@enetcom.u-sfax.tn</email>
+        <telephone>+216 72 567 890</telephone>
+        <adresse>3 Boulevard Taieb Mhiri, Nabeul, Tunisie</adresse>
+    </profil>
+
+    <notes>
+        <matiere>
+            <nom>Mathématiques Fondamentales I</nom>
+            <note>09.00</note>
+            <coefficient>7.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Mathématiques Appliquées I</nom>
+            <note>10.50</note>
+            <coefficient>4</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Informatique Fondamentale I</nom>
+            <note>12.00</note>
+            <coefficient>7</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Informatique Appliquée 1 &amp; Réseaux</nom>
+            <note>11.00</note>
+            <coefficient>7</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Sciences humaines I</nom>
+            <note>14.00</note>
+            <coefficient>4.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Mathématiques Fondamentales II</nom>
+            <note>09.00</note>
+            <coefficient>5.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Mathématiques Appliquées II</nom>
+            <note>07.50</note>
+            <coefficient>8</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Informatique Fondamentale II</nom>
+            <note>12.00</note>
+            <coefficient>5.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Informatique Appliquée II</nom>
+            <note>11.00</note>
+            <coefficient>6.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Sciences humaines II</nom>
+            <note>12.00</note>
+            <coefficient>4.5</coefficient>
+        </matiere>
+    </notes>
+
+    <navigation>
+        <lien-retour>http://localhost:8000/promotion/promotion1.xml</lien-retour>
+    </navigation>
+</etudiant>

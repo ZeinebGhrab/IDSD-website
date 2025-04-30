@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="promotion.xsl"?>
+<promotion>
+    <titre>1ère Année IDSD</titre>
+    <etudiants>
+        <etudiant>
+            <nom>Mohamed Ali</nom>
+            <moyenne>16.87</moyenne>
+            <photo>../images/etudiants/promotion1/et1.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion1/etudiant1.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Fatma Zahra</nom>
+            <moyenne>12.86</moyenne>
+            <photo>../images/etudiants/promotion1/et2.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion1/etudiant2.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Nour El Houda</nom>
+            <moyenne>11.77</moyenne>
+            <photo>../images/etudiants/promotion1/et3.png</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion1/etudiant3.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Yasmina Bouazizi</nom>
+            <moyenne>16.87</moyenne>
+            <photo>../images/etudiants/promotion1/et4.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion1/etudiant4.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Sara Omari</nom>
+            <moyenne>10.58</moyenne>
+            <photo>../images/etudiants/promotion1/et5.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion1/etudiant5.xml</lien>
+        </etudiant>
+        <etudiant>
+            <nom>Karim El Habib</nom>
+            <moyenne>13.85</moyenne>
+            <photo>../images/etudiants/promotion1/et6.jpg</photo>
+            <lien>http://localhost:8000/promotion/etudiants/promotion1/etudiant6.xml</lien>
+        </etudiant>
+    </etudiants>
+    <retour>../index.html</retour>
+</promotion>

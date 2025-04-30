@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../etudiant.xsl"?>
+<etudiant>
+    <metadata>
+        <titre>Fiche Étudiant - Yasmina Bouazizi</titre>
+    </metadata>
+
+    <profil>
+        <photo>../../../images/etudiants/promotion1/et4.jpg</photo>
+        <nom>Yasmina Bouazizi</nom>
+        <promotion>1ère Année IDSD</promotion>
+        <moyenne>16.78</moyenne>
+        <date-naissance>12/03/2002</date-naissance>
+        <email>yasmina.bouazizi@enetcom.u-sfax.tn</email>
+        <telephone>+216 77 456 789</telephone>
+        <adresse>7 Rue des Jasmins, Kairouan, Tunisie</adresse>
+    </profil>
+
+    <notes>
+        <matiere>
+            <nom>Mathématiques Fondamentales I</nom>
+            <note>16.00</note>
+            <coefficient>7.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Mathématiques Appliquées I</nom>
+            <note>14.50</note>
+            <coefficient>4</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Informatique Fondamentale I</nom>
+            <note>18.00</note>
+            <coefficient>7</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Informatique Appliquée 1 &amp; Réseaux</nom>
+            <note>18.00</note>
+            <coefficient>7</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Sciences humaines I</nom>
+            <note>18.00</note>
+            <coefficient>4.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Mathématiques Fondamentales II</nom>
+            <note>16.00</note>
+            <coefficient>5.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Mathématiques Appliquées II</nom>
+            <note>14.50</note>
+            <coefficient>8</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Informatique Fondamentale II</nom>
+            <note>18.00</note>
+            <coefficient>5.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Informatique Appliquée II</nom>
+            <note>18.00</note>
+            <coefficient>6.5</coefficient>
+        </matiere>
+        <matiere>
+            <nom>Sciences humaines II</nom>
+            <note>18.00</note>
+            <coefficient>4.5</coefficient>
+        </matiere>
+    </notes>
+
+    <navigation>
+        <lien-retour>http://localhost:8000/promotion/promotion1.xml</lien-retour>
+    </navigation>
+
+</etudiant>
