@@ -39,10 +39,10 @@ It features:
 2. 📄 Generate HTML from XQuery using BaseX
    
 - Install BaseX (a native XML database and XQuery engine).
-- Run the following command:
+- From the IDSD-website directory, run:
  
 ```bash
-   basex cd/promotion/etudiants/promotion1/etudiant.xq > result.html
+   basex promotion/etudiants/promotion1/etudiant.xq > result.html
 ```
 📁 Replace promotion1 with promotion2 or promotion3 depending on the target academic year.<br/>
 🧾 This generates an HTML file from an XQuery script based on the selected promotion's data.
